@@ -1,0 +1,3 @@
+2024-06-05 16:52:49	3s	spontaneous_bose	OK	7588c46ffefb4e3c06d4ab32c745c4d5e56cdad8	aee2d771-1dd6-4239-b5f1-2e593fe23c12	nextflow run hello
+2024-06-05 16:59:24	-	hungry_wing	-	b89fac32650aacc86fcda9ee77e00612a1d77066	2a23c474-937c-4034-92af-e42b5ef5a206	nextflow run nf-core/rnaseq --input samplesheet.csv --outdir results --genome GRCh37 -profile docker
+2024-06-05 17:00:14	-	elegant_kirch	-	b89fac32650aacc86fcda9ee77e00612a1d77066	795f3731-e5e8-4c41-aeef-a566fa582269	nextflow run nf-core/rnaseq --input scripts/samplesheet.csv --outdir results --genome GRCh37 -profile docker
