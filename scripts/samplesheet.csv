@@ -1,4 +1,4 @@
 sample,fastq_1,fastq_2,strandedness
-gut,/workspace/gitpod/nf-customize/data/gut_1.fq.gz,/workspace/gitpod/nf-customize/data/gut_2.fq.gz,auto
-liver,/workspace/gitpod/nf-customize/data/liver_1.fq.gz,/workspace/gitpod/nf-customize/data/liver_2.fq.gz,auto
-lung,/workspace/gitpod/nf-customize/data/lung_1.fq.gz,/workspace/gitpod/nf-customize/data/lung_2.fq.gz,auto
+gut,/workspace/nf-core_rnaseq/data/gut_1.fq.gz,/workspace/nf-core_rnaseq/data/gut_2.fq.gz,auto
+liver,/workspace/nf-core_rnaseq/data/liver_1.fq.gz,/workspace/nf-core_rnaseq/data/liver_2.fq.gz,auto
+lung,/workspace/nf-core_rnaseq/data/lung_1.fq.gz,/workspace/nf-core_rnaseq/data/lung_2.fq.gz,auto
