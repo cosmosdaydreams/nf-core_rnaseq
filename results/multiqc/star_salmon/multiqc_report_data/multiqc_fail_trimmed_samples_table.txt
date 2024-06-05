@@ -1,0 +1,4 @@
+Sample	Reads after trimming
+gut	2931.0
+liver	2931.0
+lung	2931.0

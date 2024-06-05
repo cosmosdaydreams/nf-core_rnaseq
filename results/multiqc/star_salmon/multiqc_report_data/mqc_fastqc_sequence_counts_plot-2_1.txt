@@ -1,0 +1,7 @@
+Sample	Unique Reads	Duplicate Reads
+gut_1	2567.0	364.0
+gut_2	2561.0	370.0
+liver_1	2567.0	364.0
+liver_2	2561.0	370.0
+lung_1	2567.0	364.0
+lung_2	2561.0	370.0

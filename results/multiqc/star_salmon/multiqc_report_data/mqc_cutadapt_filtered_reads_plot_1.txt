@@ -1,0 +1,7 @@
+Sample	Reads passing filters
+gut_1	2937.0
+gut_2	2937.0
+liver_1	2937.0
+liver_2	2937.0
+lung_1	2937.0
+lung_2	2937.0

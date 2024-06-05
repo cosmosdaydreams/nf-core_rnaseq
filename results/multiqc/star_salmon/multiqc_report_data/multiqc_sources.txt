@@ -1,0 +1,19 @@
+Module	Section	Sample Name	Source
+FastQC (raw)	all_sections	lung_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/raw/lung_2_fastqc.zip
+FastQC (raw)	all_sections	gut_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/raw/gut_1_fastqc.zip
+FastQC (raw)	all_sections	liver_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/raw/liver_2_fastqc.zip
+FastQC (raw)	all_sections	liver_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/raw/liver_1_fastqc.zip
+FastQC (raw)	all_sections	gut_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/raw/gut_2_fastqc.zip
+FastQC (raw)	all_sections	lung_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/raw/lung_1_fastqc.zip
+Cutadapt	all_sections	gut_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/trim_log/gut_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	lung_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/trim_log/lung_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	liver_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/trim_log/liver_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	gut_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/trim_log/gut_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	liver_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/trim_log/liver_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	lung_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/trim_log/lung_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	gut_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/trim/gut_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	liver_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/trim/liver_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	liver_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/trim/liver_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	lung_2	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/trim/lung_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	gut_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/trim/gut_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	lung_1	/workspace/nf-core_rnaseq/work/34/5c19ef97f0e7c503f7bfad0accb371/fastqc/trim/lung_1_val_1_fastqc.zip
